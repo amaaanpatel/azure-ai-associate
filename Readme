@@ -1,0 +1,27 @@
+#Creating the virtual enviroment
+    python3 -m venv (env_name)
+
+#Starting the virtula enviroment
+    source my_env/bin/activate
+
+ # To deactivet the env
+        deactivate   
+
+# Pip3 install command
+    pip3 install (packges)
+
+
+
+#Authenitctaion mechanisum
+Microsoft Entra ID (formerly known as Azure AD)
+Subscription keys
+Managed identities
+
+
+#Azure Key Vault for rotating keys
+
+#The Six Core Principles: Considerations for Developing AI Responsibly”
+
+#key for language scentiment
+1788mIQ4Uf1P14BBJPefguhvXzxNxxEd3XgQoH2zuhDLlDxV4Dq3JQQJ99BJACYeBjFXJ3w3AAAaACOGpR6h
+https://amaanailanguage.cognitiveservices.azure.com/

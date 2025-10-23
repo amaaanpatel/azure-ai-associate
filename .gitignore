@@ -1,0 +1,35 @@
+# Python virtual environment (ignore all env-related folders)
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+.env
+*.env
+
+# Optional: common venv folder names
+venv/
+.venv/
+env/
+.env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+key_vault
